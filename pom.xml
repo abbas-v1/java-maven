@@ -42,7 +42,7 @@
             <configuration>
               <archive>
                 <manifest>
-                  <mainClass>com.esafzay.App</mainClass>
+                  <mainClass>com.esafzay.Main</mainClass>
                 </manifest>
               </archive>
               <descriptorRefs>
